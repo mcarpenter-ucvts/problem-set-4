@@ -49,6 +49,15 @@ function celsius() {
   // (inclusive), and rounds this value to 2 decimal places.
 
   // WRITE YOUR EXERCISE 3 CODE HERE
+var x;
+
+
+
+
+
+
+
+}
 
   ////////////////////////// DO NOT MODIFY
   check("celsius", cels); // DO NOT MODIFY
